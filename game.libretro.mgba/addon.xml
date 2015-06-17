@@ -5,10 +5,10 @@
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
-		<import addon="game.controller.nes" version="1.0.0"/>
+		<import addon="game.controller.gba" version="1.0.0"/>
 	</requires>
 	<extension point="kodi.gameclient"
-                   library_android="game.libretro.mgba.so"
+                   library_android="libgame.libretro.mgba.so"
                    library_linux="game.libretro.mgba.so"
                    library_osx="game.libretro.mgba.dylib"
                    library_windx="game.libretro.mgba.dll"
@@ -20,7 +20,10 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">MGBA v0.2.0</summary>
-		<description>Source: https://github.com/libretro/mgba</description>
+		<description>mGBA aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack.
+		
+License: MPL 2.0</description>
 		<platform>all</platform>
+		<nofanart>true</nofanart>
 	</extension>
 </addon>
