@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mgba"
-		name="GBA (mgba)"
+		name="GBA (mGBA)"
 		version="0.2.0"
 		provider-name="Libretro">
 	<requires>
@@ -19,9 +19,11 @@
 		<supports_no_game>false</supports_no_game>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">MGBA v0.2.0</summary>
+		<summary lang="en">mGBA v0.2.0</summary>
 		<description>mGBA aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack.
-		
+
+Supported files: .gba
+
 License: MPL 2.0</description>
 		<platform>all</platform>
 		<nofanart>true</nofanart>
