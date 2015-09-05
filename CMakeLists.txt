@@ -7,7 +7,7 @@ list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 enable_language(CXX)
 
 find_package(kodi REQUIRED)
-find_package(mgba REQUIRED)
+find_package(libretro-mgba REQUIRED)
 
 set(DEPLIBS mgba)
 set(MGBA_CUSTOM_BINARY ${MGBA_LIB}
