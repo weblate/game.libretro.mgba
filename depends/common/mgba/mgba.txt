@@ -1,1 +1,1 @@
-mgba https://github.com/libretro/mgba/archive/master.zip
+mgba https://github.com/libretro/mgba master
