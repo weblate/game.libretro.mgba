@@ -10,3 +10,5 @@ set(MGBA_CUSTOM_BINARY ${MGBA_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
 build_addon(${PROJECT_NAME} MGBA "")
+
+include(CPack)
