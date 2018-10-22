@@ -21,6 +21,7 @@
 Supported files: .gba, .gb, .gbc</description>
 		<license>MPLv2.0</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.mgba</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
