@@ -51,4 +51,3 @@ msgstr ""
 msgctxt "#30008"
 msgid "Use BIOS file if found (requires restart)"
 msgstr ""
-
