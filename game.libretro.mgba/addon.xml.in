@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mgba"
 		name="Nintendo - Game Boy Advance (mGBA)"
-		version="0.7.0.5"
+		version="0.8.0.6"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -15,7 +15,7 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Nintendo - Game Boy Advance (mGBA) 0.7.0</summary>
+		<summary lang="en_GB">Nintendo - Game Boy Advance (mGBA) 0.8</summary>
 		<description lang="en_GB">mGBA aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack.
 
 Supported files: .gba, .gb, .gbc</description>

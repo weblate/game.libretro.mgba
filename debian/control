@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-mgba (>= 0.7.0) | mgba (>= 0.7.0)
+               libretro-mgba (>= 0.8.0) | mgba (>= 0.8.0)
 Standards-Version: 3.9.8
 Section: libs
 

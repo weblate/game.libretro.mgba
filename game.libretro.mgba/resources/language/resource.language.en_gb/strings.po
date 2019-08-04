@@ -21,33 +21,37 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Allow opposing directional input"
+msgid "Allow Opposing Directional Input"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Frameskip"
+msgid "Color Correction"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Game Boy model (requires restart)"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Idle loop removal"
+msgid "Game Boy Model (requires restart)"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Use Super Game Boy borders (requires restart)"
+msgid "Idle Loop Removal"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Skip BIOS intro (requires restart)"
+msgid "Use Super Game Boy Borders (requires restart)"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Solar sensor level"
+msgid "Skip BIOS Intro (requires restart)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Use BIOS file if found (requires restart)"
+msgid "Solar Sensor Level"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Use BIOS File if Found (requires restart)"
 msgstr ""
