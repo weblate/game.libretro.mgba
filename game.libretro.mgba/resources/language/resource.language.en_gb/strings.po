@@ -41,17 +41,21 @@ msgid "Idle Loop Removal"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Use Super Game Boy Borders (requires restart)"
+msgid "Interframe Blending"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Skip BIOS Intro (requires restart)"
+msgid "Use Super Game Boy Borders (requires restart)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Solar Sensor Level"
+msgid "Skip BIOS Intro (requires restart)"
 msgstr ""
 
 msgctxt "#30009"
+msgid "Solar Sensor Level"
+msgstr ""
+
+msgctxt "#30010"
 msgid "Use BIOS File if Found (requires restart)"
 msgstr ""
