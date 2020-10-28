@@ -37,29 +37,37 @@ msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Game Boy Model (requires restart)"
+msgid "Frameskip Interval"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Idle Loop Removal"
+msgid "Frameskip Threshold (%)"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Interframe Blending"
+msgid "Game Boy Model (requires restart)"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Use Super Game Boy Borders (requires restart)"
+msgid "Idle Loop Removal"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Skip BIOS Intro (requires restart)"
+msgid "Interframe Blending"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Solar Sensor Level"
+msgid "Use Super Game Boy Borders (requires restart)"
 msgstr ""
 
 msgctxt "#30011"
+msgid "Skip BIOS Intro (requires restart)"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Solar Sensor Level"
+msgstr ""
+
+msgctxt "#30013"
 msgid "Use BIOS File if Found (requires restart)"
 msgstr ""
