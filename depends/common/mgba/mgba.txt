@@ -1,1 +1,1 @@
-mgba https://github.com/libretro/mgba/archive/0d826c9307bef16ff54468986173162acaafdf70.zip
+mgba https://github.com/libretro/mgba/archive/4f3fcfac78f0ecd5e6309cc2a3f439650de2d529.zip
